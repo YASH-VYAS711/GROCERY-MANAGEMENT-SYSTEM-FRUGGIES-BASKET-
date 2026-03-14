@@ -5,4 +5,4 @@ add items to their shopping cart, and place orders for either delivery or pickup
 customer and administrator functionalities. Key features include user registration and login, a searchable product catalog, secure
 payment processing, order tracking, and an admin panel for managing products, orders, and user accounts. This project is designed to
 enhance convenience for customers, optimize inventory management for administrators, and ultimately improve operational efficiency in
-the competitive grocery retail industry
+the competitive grocery retail industry.
